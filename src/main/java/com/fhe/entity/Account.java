@@ -3,6 +3,10 @@ package com.fhe.entity;
 import java.io.Serializable;
 import java.util.Objects;
 
+/**
+ * @author Kbarik
+ *
+ */
 public class Account implements Serializable {
 
 	/**
