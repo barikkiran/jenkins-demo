@@ -6,6 +6,10 @@ import org.hibernate.cfg.Configuration;
 
 import com.fhe.entity.Account;
 
+/**
+ * @author Kiran
+ *
+ */
 public class FirstHibernateExampleTest {
 
 	public static void main(String[] args) {
